@@ -49,3 +49,14 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # todo-native
+
+## Screenshots
+
+# Sign in
+<img src="/screenshots/sign-in.png" alt="sign-in"/>
+
+# Sign up
+<img src="/screenshots/sign-up.png" alt="sign-up"/>
+
+# App
+<img src="/screenshots/app.png" alt="app"/>

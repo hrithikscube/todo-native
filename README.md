@@ -50,13 +50,13 @@ Join our community of developers creating universal apps.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 # todo-native
 
-## Screenshots
+# Screenshots
 
-# Sign in
+## Sign in
 <img src="/screenshots/sign-in.png" alt="sign-in"/>
 
-# Sign up
+## Sign up
 <img src="/screenshots/sign-up.png" alt="sign-up"/>
 
-# App
+## App
 <img src="/screenshots/app.png" alt="app"/>

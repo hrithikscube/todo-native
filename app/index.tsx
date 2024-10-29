@@ -1,13 +1,13 @@
 
 import Input from '@/components/Input';
+import React, { useState } from 'react';
+import { useRouter } from 'expo-router';
+import ViewIcon from '@/components/svgs/ViewIcon';
+import HideIcon from '@/components/svgs/HideIcon';
+import GoogleIcon from '@/components/svgs/GoogleIcon';
 import PrimaryButton from '@/components/PrimaryButton';
 import FacebookIcon from '@/components/svgs/FacebookIcon';
-import GoogleIcon from '@/components/svgs/GoogleIcon';
-import HideIcon from '@/components/svgs/HideIcon';
-import ViewIcon from '@/components/svgs/ViewIcon';
-import { useRouter } from 'expo-router';
-import React, { useState } from 'react';
-import { Image, StyleSheet, Text, TextInput, View } from 'react-native';
+import { Image, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
 const Home = () => {
@@ -71,7 +71,7 @@ const Home = () => {
         <PrimaryButton icon={<GoogleIcon />} variant="outlined" label="Login with Google" />
 
         <Text style={styles.secondaryText}>
-          I don’t have an account? <Text onPress={() => router.replace('./sign-up')} style={styles.blueText}>Signup</Text>
+          I don’t have an account? <Text onPress={() => router.replace('./sign-up')} style={styles.blueText}>Sign up</Text>
         </Text>
 
       </View>

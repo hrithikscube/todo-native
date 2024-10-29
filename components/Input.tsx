@@ -44,6 +44,6 @@ const styles = StyleSheet.create({
         height: 46,
         padding: 10,
         color: '#808080',
-        fontSize: 12
+        fontSize: 12,
     },
 });

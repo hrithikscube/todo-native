@@ -262,7 +262,7 @@ const styles = StyleSheet.create({
 
     tabs: {
         position: 'absolute',
-        bottom: 10,
+        bottom: 0,
         left: 0,
         // borderColor: '#d32f2f',
         // borderWidth: 1,
@@ -280,7 +280,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         gap: 20,
         width: '100%',
-        marginBottom: 80
+        marginBottom: 120
     },
 
     card: {

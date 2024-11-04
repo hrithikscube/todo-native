@@ -20,9 +20,9 @@ const PrimaryButton = ({ label, height, borderRadius, borderColor, width, icon, 
             justifyContent: 'center'
         },
         btnText: {
-            fontSize: 14,
+            fontSize: 12,
             color: '#ffffff',
-            fontWeight: '500',
+            // fontWeight: '500',
             textAlign: 'center'
         },
         secondaryBtn: {
@@ -40,9 +40,9 @@ const PrimaryButton = ({ label, height, borderRadius, borderColor, width, icon, 
             justifyContent: 'center'
         },
         secondaryBtnTxt: {
-            fontSize: 14,
+            fontSize: 12,
             color: '#121212',
-            fontWeight: '500',
+            // fontWeight: '500',
             textAlign: 'center'
         }
     })

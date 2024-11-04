@@ -280,7 +280,7 @@ const styles = StyleSheet.create({
         flexDirection: 'column',
         gap: 20,
         width: '100%',
-        marginBottom: 80
+        marginBottom: 120
     },
 
     card: {
